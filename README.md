@@ -1,1 +1,1 @@
-## Desafio replicado conforme aula
+## Replicado conforme aulas
